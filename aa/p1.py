@@ -1,21 +1,18 @@
-#! /usr/bin/env python
-# coding=utf-8
-
-# -------------------------------------------------------------------------------
-# Revision:    1.0
-# Date:        2022-03-18
-# Author:      ying.xue
-# Description: 
-# 预置条件：
-# 
-# 
-# 测试步骤：
-# 
-# 预期结果
-
-# Email:      ying.xue@unisoc.com
-# -------------------------------------------------------------------------------
-import os,subprocess
+"""
+-------------------------------------------------------------------------------
+Revision:    1.0
+Date:        2022-05-12
+Author:      ying.xue
+Description:
+预置条件：
+测试步骤：
+预期结果
+Modifier：
+Modifytime：
+Description of Modify：
+Email:      ying.xue@unisoc.com
+-------------------------------------------------------------------------------
+"""
 
 from common.log import Log
 
